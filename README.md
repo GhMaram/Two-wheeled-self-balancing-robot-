@@ -93,3 +93,11 @@ This project strengthened skills in:
 
 ## Result
 The robot successfully maintains its balance and recovers from external disturbances, validating both the control design and embedded implementation. Seeing the system stabilize itself in real hardware was the ultimate confirmation of the theory-meets-practice approach.
+
+---
+
+## Author
+
+Maram Ghribi
+
+This project demonstrates a complete and practical solution to the self-balancing robot problem, bridging control theory and embedded systems engineering.
